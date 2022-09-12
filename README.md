@@ -8,7 +8,7 @@ Projeto criado como etapa de processo seletivo da empresa [Noot](https://noot.co
 
 ### 🛠 Tecnologias utilizadas:
 
-Neste projeto foram utilizadas estas tecnologias:
+Neste projeto foram utilizadas as seguintes tecnologias:
 
 - [React](https://pt-br.reactjs.org/)
 - [Styled-Components](https://styled-components.com/docs/basics#installation)
@@ -25,21 +25,21 @@ Antes de iniciar o projeto, você vai precisar das seguintes ferramentas:
 
 ### Clonar o repositório
 
+```bash
 $ git clone <https://github.com/lucascavalcan/nootselecao>
-
-$ git clone <https://github.com/lucascavalcan/nootselecao>
+```
 
 ### Instalar dependências
 
+```bash
 $ npm install
-
-$ npm install
+```
 
 ### Rodar o projeto
 
+```bash
 $ npm start
-
-$ npm start
+```
 
 ### Autor
 
