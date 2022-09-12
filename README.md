@@ -43,6 +43,6 @@ npm start
 
 ### Autor
 
-Projeto criado por [Lucas Cavalcanti de Araujo](https://lucascavalcan.github.io/)
+Projeto criado por [Lucas Cavalcanti de Araujo](https://lucascavalcan.github.io/) </br>
 Feito com ❤️
 
