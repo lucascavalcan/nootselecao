@@ -1,22 +1,29 @@
 import * as C from "./styles";
+
 import LeftBig from "../../images/leftbig.png";
 import LeftSmall from "../../images/leftsmall.png";
 import RightBig from "../../images/rightbig.png";
 import RightSmall from "../../images/rightsmall.png";
 
+
+
 export const Cadastro = () => {
 
     function openLink() {
-        window.open("https://www.noot.com.br/;", "_blank");
+        window.open("https://noot.com.br/", "_blank");
     }
+
 
     return (
         <C.Container>
+            <div data-aos="fade-right">
             <C.ImagesLeft>
                 <img src={LeftBig} width="394" alt="" className="img--left--big"/>
                 <img src={LeftSmall} width="238" alt="" className="img--left--small"/>
 
             </C.ImagesLeft>
+            </div>
+
 
             <C.CadastroArea>
                 <C.CadastroTitle>LOREM IPSUM E MAIS QUE {<br/>} UM TEXTO SALVA VIDAS.</C.CadastroTitle>

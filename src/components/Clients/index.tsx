@@ -10,7 +10,7 @@ import Fx from "../../images/client-fx.png";
 export const Clients = () => {
     return (
         <C.Container>
-            <C.Square>
+            <C.Square data-aos="fade-right">
                 <C.SquareLeft>
                     <C.SquareTitle>ATÉ LOREM{<br/>}IPSUM,{<br/>}CONFIA.</C.SquareTitle>
                     <C.SquareDesc>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</C.SquareDesc>

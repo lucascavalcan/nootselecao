@@ -14,7 +14,7 @@ export const Header = () => {
     }
 
     function openLink() {
-        window.open("https://www.noot.com.br/;", "_blank");
+        window.open("https://noot.com.br/", "_blank");
     }
 
     return (

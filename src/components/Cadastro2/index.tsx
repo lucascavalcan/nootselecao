@@ -5,7 +5,7 @@ import RightSmall from "../../images/cad2-small.png";
 export const Cadastro2 = () => {
 
     function openLink() {
-        window.open("https://www.noot.com.br/;", "_blank");
+        window.open("https://noot.com.br/", "_blank");
     }
 
     return (
