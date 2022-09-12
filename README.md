@@ -32,16 +32,17 @@ $ git clone <https://github.com/lucascavalcan/nootselecao>
 ### Instalar dependências
 
 ```bash
-$ npm install
+npm install
 ```
 
 ### Rodar o projeto
 
 ```bash
-$ npm start
+npm start
 ```
 
 ### Autor
 
 Projeto criado por [Lucas Cavalcanti de Araujo](https://lucascavalcan.github.io/)
+Feito com ❤️
 
